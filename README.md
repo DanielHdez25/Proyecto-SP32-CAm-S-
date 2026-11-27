@@ -1,0 +1,1 @@
+Con una sp32 cam S hemos crado un dispositivo de monitoreo en tiempo real ...con configuramos los parametros de la calidad de liver la sensibilidad y la intensidad del led de la camara de la sp32 para poder tener el control absoluto del video y poder monitorel en tiempo real el proceso en cuestion 
